@@ -1,6 +1,8 @@
 streamlit
 pytesseract
-pillow
 pdf2image
+Pillow
 opencv-python-headless
 numpy
+requests
+google-generativeai
