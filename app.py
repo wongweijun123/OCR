@@ -275,7 +275,7 @@ def run_ocr(file_bytes, is_pdf, params):
 
 # --- UI ---
 st.markdown("<style>.stTextArea textarea {font-family: 'Courier New', monospace;}</style>", unsafe_allow_html=True)
-st.title("🔍 Pro OCR Tool (Enhanced Accuracy)")
+st.title("🔍 OCR Tool")
 
 # Sidebar
 st.sidebar.header("⚙️ Advanced Settings")
