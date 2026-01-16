@@ -12,7 +12,7 @@ from io import BytesIO
 import google.generativeai as genai
 
 # --- PAGE CONFIG (Must be first) ---
-st.set_page_config(page_title="Pro OCR Tool v2", layout="wide", page_icon="🔍")
+st.set_page_config(page_title="OCR Tool", layout="wide", page_icon="🔍")
 
 # --- SESSION STATE INITIALIZATION ---
 if 'ocr_results' not in st.session_state:
